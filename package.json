@@ -4,7 +4,7 @@
   "dependencies": {
     "marking-surface": "0.6.4",
     "publisssh": "1.1.0",
-    "zooniverse-readymade": "~1.1.2"
+    "zooniverse-readymade": "~1.7"
   },
   "scripts": {
     "start": "zooniverse-readymade serve --port 3050 --project ./project.coffee --css ./project.styl --js ./overrides.coffee",
